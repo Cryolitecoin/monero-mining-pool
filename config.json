@@ -19,7 +19,7 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-        "poolAddress": "4AYESK8nY1a69AzbBHy2FcdgprbHFeAWzap7gekigBSa9TUDxBKVLGhGW45waBx4L2X8mQNmARyVrbADVVFmppWPKTtKZvA",
+        "poolAddress": "your_wallet_address",
         "blockRefreshInterval": 1000,
         "minerTimeout": 900,
         "ports": [
@@ -100,7 +100,7 @@
         "sslcert": "./certs/cert.pem",
         "sslkey": "./certs/privkey.pem",
         "sslca": "./certs/chain.pem",
-        "password": "q5223470"
+        "password": "your_password"
     },
 
     "daemon": {
